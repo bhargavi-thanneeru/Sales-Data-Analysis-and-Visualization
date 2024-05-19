@@ -1,0 +1,255 @@
+CustomerId,CustomerName,City,PostalCode,Country,Sales_Contact_LastName,Sales_Contact_FirstName,DealSize
+1,Land of Toys Inc.,NYC,10022,USA,Yu,Kwai,Small
+2,Reims Collectables,Reims,51100,France,Henriot,Paul,Small
+3,Lyon Souveniers,Paris,75508,France,Da Cunha,Daniel,Medium
+4,Toys4GrownUps.com,Pasadena,90003,USA,Young,Julie,Medium
+5,Corporate Gift Ideas Co.,San Francisco,,USA,Brown,Julie,Medium
+6,Technics Stores Inc.,Burlingame,94217,USA,Hirano,Juri,Medium
+7,Daedalus Designs Imports,Lille,59000,France,Rance,Martine,Small
+8,Herkku Gifts,Bergen,N 5804,Norway,Oeztan,Veysel,Medium
+9,Mini Wheels Co.,San Francisco,,USA,Murphy,Julie,Small
+10,Auto Canal Petit,Paris,75016,France,Perrier,Dominique,Medium
+11,"Australian Collectors, Co.",Melbourne,3004,Australia,Ferguson,Peter,Medium
+12,Vitachrome Inc.,NYC,10022,USA,Frick,Michael,Small
+13,Tekni Collectables Inc.,Newark,94019,USA,Brown,William,Medium
+14,Gift Depot Inc.,Bridgewater,97562,USA,King,Julie,Medium
+15,La Rochelle Gifts,Nantes,44000,France,Labrune,Janine,Medium
+16,Marta's Replicas Co.,Cambridge,51247,USA,Hernandez,Marta,Medium
+17,"Toys of Finland, Co.",Helsinki,21240,Finland,Karttunen,Matti,Small
+18,Baane Mini Imports,Stavern,4110,Norway,Bergulfsen,Jonas,Medium
+19,Diecast Classics Inc.,Allentown,70267,USA,Yu,Kyung,Medium
+20,Land of Toys Inc.,NYC,10022,USA,Yu,Kwai,Medium
+21,Salzburg Collectables,Salzburg,5020,Austria,Pipps,Georg,Large
+22,Souveniers And Things Co.,Chatswood,2067,Australia,Huxley,Adrian,Small
+23,La Rochelle Gifts,Nantes,44000,France,Labrune,Janine,Small
+24,FunGiftIdeas.com,New Bedford,50553,USA,Benitez,Violeta,Medium
+25,"UK Collectables, Ltd.",Liverpool,WX1 6LT,UK,Devon,Elizabeth,Small
+26,Euro Shopping Channel,Madrid,28034,Spain,Freyre,Diego,Large
+27,"Volvo Model Replicas, Co",Lule,S-958 22,Sweden,Berglund,Christina,Large
+28,"Corrida Auto Replicas, Ltd",Madrid,28023,Spain,Sommer,Mart》,Large
+29,Technics Stores Inc.,Burlingame,94217,USA,Hirano,Juri,Large
+30,"Dragon Souveniers, Ltd.",Singapore,79903,Singapore,Natividad,Eric,Large
+31,Classic Legends Inc.,NYC,10022,USA,Hernandez,Maria,Medium
+32,"Australian Gift Network, Co",South Brisbane,4101,Australia,Calaghan,Tony,Large
+33,"Classic Gift Ideas, Inc",Philadelphia,71270,USA,Cervantes,Francisca,Medium
+34,"Saveley & Henriot, Co.",Lyon,69004,France,Saveley,Mary,Large
+35,Canadian Gift Exchange Network,Vancouver,V3F 2K1,Canada,Tannamuri,Yoshi,Large
+36,West Coast Collectables Co.,Burbank,94019,USA,Thompson,Steve,Medium
+37,Cambridge Collectables Co.,Cambridge,51247,USA,Tseng,Kyung,Medium
+38,Super Scale Inc.,New Haven,97823,USA,Murphy,Leslie,Medium
+39,"Tokyo Collectables, Ltd",Minato-ku,106-0032,Japan,Shimamura,Akiko,Large
+40,Souveniers And Things Co.,Chatswood,2067,Australia,Huxley,Adrian,Medium
+41,Amica Models & Co.,Torino,10100,Italy,Accorti,Paolo,Large
+42,Scandinavian Gift Ideas,Boras,S-844 67,Sweden,Larsson,Maria,Large
+43,Auto Assoc. & Cie.,Versailles,78000,France,Tonini,Daniel,Large
+44,Mini Gifts Distributors Ltd.,San Rafael,97562,USA,Nelson,Valarie,Large
+45,Online Diecast Creations Co.,Nashua,62005,USA,Young,Valarie,Medium
+46,Mini Wheels Co.,San Francisco,,USA,Murphy,Julie,Medium
+47,Mini Gifts Distributors Ltd.,San Rafael,97562,USA,Nelson,Valarie,Medium
+48,Collectables For Less Inc.,Brickhaven,58339,USA,Nelson,Allen,Medium
+49,Corporate Gift Ideas Co.,San Francisco,,USA,Brown,Julie,Large
+50,"Anna's Decorations, Ltd",North Sydney,2060,Australia,O'Hara,Anna,Small
+51,Quebec Home Shopping Network,Montreal,H1J 1C3,Canada,Fresnisre,Jean,Medium
+52,"Australian Collectors, Co.",Melbourne,3004,Australia,Ferguson,Peter,Small
+53,Daedalus Designs Imports,Lille,59000,France,Rance,Martine,Medium
+54,Osaka Souveniers Co.,Osaka,530-0003,Japan,Kentary,Mory,Medium
+55,Motor Mint Distributors Inc.,Philadelphia,71270,USA,Hernandez,Rosa,Small
+56,Atelier graphique,Nantes,44000,France,Schmitt,Carine,Medium
+57,Mini Classics,White Plains,24067,USA,Frick,Steve,Medium
+58,"Tokyo Collectables, Ltd",Minato-ku,106-0032,Japan,Shimamura,Akiko,Small
+59,"Australian Gift Network, Co",South Brisbane,4101,Australia,Calaghan,Tony,Medium
+60,FunGiftIdeas.com,New Bedford,50553,USA,Benitez,Violeta,Small
+61,Euro Shopping Channel,Madrid,28034,Spain,Freyre,Diego,Medium
+62,"Australian Collectors, Co.",Melbourne,3004,Australia,Ferguson,Peter,Large
+63,Lyon Souveniers,Paris,75508,France,Da Cunha,Daniel,Large
+64,Daedalus Designs Imports,Lille,59000,France,Rance,Martine,Large
+65,Herkku Gifts,Bergen,N 5804,Norway,Oeztan,Veysel,Large
+66,Mini Wheels Co.,San Francisco,,USA,Murphy,Julie,Large
+67,Vitachrome Inc.,NYC,10022,USA,Frick,Michael,Large
+68,Tekni Collectables Inc.,Newark,94019,USA,Brown,William,Large
+69,Gift Depot Inc.,Bridgewater,97562,USA,King,Julie,Large
+70,"Toys of Finland, Co.",Helsinki,21240,Finland,Karttunen,Matti,Medium
+71,Diecast Classics Inc.,Allentown,70267,USA,Yu,Kyung,Large
+72,"UK Collectables, Ltd.",Liverpool,WX1 6LT,UK,Devon,Elizabeth,Large
+73,Danish Wholesale Imports,Kobenhavn,1734,Denmark,Petersen,Jytte,Large
+74,Salzburg Collectables,Salzburg,5020,Austria,Pipps,Georg,Medium
+75,"Stylish Desk Decors, Co.",London,WX3 6FW,UK,Brown,Ann,Medium
+76,Mini Creations Ltd.,New Bedford,50553,USA,Tam,Wing C,Medium
+77,Scandinavian Gift Ideas,Boras,S-844 67,Sweden,Larsson,Maria,Medium
+78,Alpha Cognac,Toulouse,31000,France,Roulet,Annette,Medium
+79,"Double Decker Gift Stores, Ltd",London,WA1 1DP,UK,Hardy,Thomas,Medium
+80,Enaco Distributors,Barcelona,8022,Spain,Saavedra,Eduardo,Medium
+81,"Men 'R' US Retailers, Ltd.",Los Angeles,,USA,Chandler,Michael,Medium
+82,Collectable Mini Designs Co.,San Diego,91217,USA,Thompson,Valarie,Medium
+83,Petit Auto,Bruxelles,B-1180,Belgium,Dewey,Catherine,Medium
+84,"Royal Canadian Collectables, Ltd.",Tsawassen,T2F 8M4,Canada,Lincoln,Elizabeth,Small
+85,Gifts4AllAges.com,Boston,51003,USA,Yoshido,Juri,Medium
+86,"Classic Gift Ideas, Inc",Philadelphia,71270,USA,Cervantes,Francisca,Small
+87,giftsbymail.co.uk,Cowes,PO31 7PJ,UK,Bennett,Helen,Medium
+88,Classic Legends Inc.,NYC,10022,USA,Hernandez,Maria,Small
+89,Euro Shopping Channel,Madrid,28034,Spain,Freyre,Diego,Small
+90,"Oulu Toy Supplies, Inc.",Oulu,90110,Finland,Koskitalo,Pirkko,Medium
+91,The Sharp Gifts Warehouse,San Jose,94217,USA,Frick,Sue,Large
+92,Gifts4AllAges.com,Boston,51003,USA,Yoshido,Juri,Small
+93,"La Corne D'abondance, Co.",Paris,75012,France,Bertrand,Marie,Medium
+94,"Corrida Auto Replicas, Ltd",Madrid,28023,Spain,Sommer,Mart》,Medium
+95,"Dragon Souveniers, Ltd.",Singapore,79903,Singapore,Natividad,Eric,Medium
+96,Mini Auto Werke,Graz,8010,Austria,Mendel,Roland,Medium
+97,"Saveley & Henriot, Co.",Lyon,69004,France,Saveley,Mary,Medium
+98,Diecast Collectables,Boston,51003,USA,Franco,Valarie,Medium
+99,Handji Gifts& Co,Singapore,69045,Singapore,Victorino,Wendy,Large
+100,Handji Gifts& Co,Singapore,69045,Singapore,Victorino,Wendy,Medium
+101,Canadian Gift Exchange Network,Vancouver,V3F 2K1,Canada,Tannamuri,Yoshi,Medium
+102,Online Diecast Creations Co.,Nashua,62005,USA,Young,Valarie,Small
+103,"Volvo Model Replicas, Co",Lule,S-958 22,Sweden,Berglund,Christina,Medium
+104,Cruz & Sons Co.,Makati City,1227 MM,Philippines,Cruz,Arnold,Medium
+105,Marseille Mini Autos,Marseille,13008,France,Lebihan,Laurence,Large
+106,Collectables For Less Inc.,Brickhaven,58339,USA,Nelson,Allen,Large
+107,"Anna's Decorations, Ltd",North Sydney,2060,Australia,O'Hara,Anna,Medium
+108,"Toms Spezialitten, Ltd",Koln,50739,Germany,Pfalzheim,Henriette,Medium
+109,Auto Canal Petit,Paris,75016,France,Perrier,Dominique,Large
+110,"Vida Sport, Ltd",Gensve,1203,Switzerland,Holz,Michael,Medium
+111,Danish Wholesale Imports,Kobenhavn,1734,Denmark,Petersen,Jytte,Medium
+112,"UK Collectables, Ltd.",Liverpool,WX1 6LT,UK,Devon,Elizabeth,Medium
+113,L'ordine Souveniers,Reggio Emilia,42100,Italy,Moroni,Maurizio,Large
+114,Online Mini Collectables,Brickhaven,58339,USA,Barajas,Miguel,Large
+115,"Blauer See Auto, Co.",Frankfurt,60528,Germany,Keitel,Roland,Medium
+116,Suominen Souveniers,Espoo,FIN-02271,Finland,Suominen,Kalle,Small
+117,Scandinavian Gift Ideas,Boras,S-844 67,Sweden,Larsson,Maria,Small
+118,Salzburg Collectables,Salzburg,5020,Austria,Pipps,Georg,Small
+119,Muscle Machine Inc,NYC,10022,USA,Young,Jeff,Large
+120,Super Scale Inc.,New Haven,97823,USA,Murphy,Leslie,Large
+121,"Clover Collections, Co.",Dublin,2,Ireland,Cassidy,Dean,Large
+122,CAF Imports,Madrid,28023,Spain,Fernandez,Jesus,Large
+123,Suominen Souveniers,Espoo,FIN-02271,Finland,Suominen,Kalle,Large
+124,"AV Stores, Co.",Manchester,EC2 5NT,UK,Ashworth,Victoria,Medium
+125,Heintze Collectables,Aaarhus,8200,Denmark,Ibsen,Palle,Large
+126,Baane Mini Imports,Stavern,4110,Norway,Bergulfsen,Jonas,Small
+127,"La Corne D'abondance, Co.",Paris,75012,France,Bertrand,Marie,Small
+128,"Corrida Auto Replicas, Ltd",Madrid,28023,Spain,Sommer,Mart》,Small
+129,Reims Collectables,Reims,51100,France,Henriot,Paul,Medium
+130,Lyon Souveniers,Paris,75508,France,Da Cunha,Daniel,Small
+131,Auto Assoc. & Cie.,Versailles,78000,France,Tonini,Daniel,Medium
+132,"Tokyo Collectables, Ltd",Minato-ku,106-0032,Japan,Shimamura,Akiko,Medium
+133,Diecast Classics Inc.,Allentown,70267,USA,Yu,Kyung,Small
+134,Canadian Gift Exchange Network,Vancouver,V3F 2K1,Canada,Tannamuri,Yoshi,Small
+135,"Anna's Decorations, Ltd",North Sydney,2060,Australia,O'Hara,Anna,Large
+136,Corporate Gift Ideas Co.,San Francisco,,USA,Brown,Julie,Small
+137,Reims Collectables,Reims,51100,France,Henriot,Paul,Large
+138,Toys4GrownUps.com,Pasadena,90003,USA,Young,Julie,Large
+139,Vitachrome Inc.,NYC,10022,USA,Frick,Michael,Medium
+140,Online Mini Collectables,Brickhaven,58339,USA,Barajas,Miguel,Medium
+141,Microscale Inc.,NYC,10022,USA,Kuo,Kee,Medium
+142,"Clover Collections, Co.",Dublin,2,Ireland,Cassidy,Dean,Medium
+143,"Blauer See Auto, Co.",Frankfurt,60528,Germany,Keitel,Roland,Large
+144,Suominen Souveniers,Espoo,FIN-02271,Finland,Suominen,Kalle,Medium
+145,Amica Models & Co.,Torino,10100,Italy,Accorti,Paolo,Medium
+146,Heintze Collectables,Aaarhus,8200,Denmark,Ibsen,Palle,Medium
+147,Marseille Mini Autos,Marseille,13008,France,Lebihan,Laurence,Medium
+148,Herkku Gifts,Bergen,N 5804,Norway,Oeztan,Veysel,Small
+149,"Vida Sport, Ltd",Gensve,1203,Switzerland,Holz,Michael,Small
+150,L'ordine Souveniers,Reggio Emilia,42100,Italy,Moroni,Maurizio,Small
+151,Boards & Toys Co.,Glendale,92561,USA,Young,Leslie,Medium
+152,Mini Creations Ltd.,New Bedford,50553,USA,Tam,Wing C,Large
+153,CAF Imports,Madrid,28023,Spain,Fernandez,Jesus,Medium
+154,Muscle Machine Inc,NYC,10022,USA,Young,Jeff,Medium
+155,Marseille Mini Autos,Marseille,13008,France,Lebihan,Laurence,Small
+156,Mini Gifts Distributors Ltd.,San Rafael,97562,USA,Nelson,Valarie,Small
+157,Collectables For Less Inc.,Brickhaven,58339,USA,Nelson,Allen,Small
+158,"Toms Spezialitten, Ltd",Koln,50739,Germany,Pfalzheim,Henriette,Small
+159,Auto Canal Petit,Paris,75016,France,Perrier,Dominique,Small
+160,Danish Wholesale Imports,Kobenhavn,1734,Denmark,Petersen,Jytte,Small
+161,"Blauer See Auto, Co.",Frankfurt,60528,Germany,Keitel,Roland,Small
+162,"Volvo Model Replicas, Co",Lule,S-958 22,Sweden,Berglund,Christina,Small
+163,Muscle Machine Inc,NYC,10022,USA,Young,Jeff,Small
+164,"Iberia Gift Imports, Corp.",Sevilla,41101,Spain,Roel,Jose Pedro,Medium
+165,Signal Collectibles Ltd.,Brisbane,94217,USA,Taylor,Sue,Medium
+166,"Oulu Toy Supplies, Inc.",Oulu,90110,Finland,Koskitalo,Pirkko,Small
+167,L'ordine Souveniers,Reggio Emilia,42100,Italy,Moroni,Maurizio,Medium
+168,Mini Caravy,Strasbourg,67000,France,Citeaux,Frederique,Large
+169,"Saveley & Henriot, Co.",Lyon,69004,France,Saveley,Mary,Small
+170,Amica Models & Co.,Torino,10100,Italy,Accorti,Paolo,Small
+171,Motor Mint Distributors Inc.,Philadelphia,71270,USA,Hernandez,Rosa,Medium
+172,Signal Gift Stores,Las Vegas,83030,USA,King,Sue,Medium
+173,"Norway Gifts By Mail, Co.",Oslo,N 0106,Norway,Klaeboe,Jan,Medium
+174,Mini Creations Ltd.,New Bedford,50553,USA,Tam,Wing C,Small
+175,Rovelli Gifts,Bergamo,24100,Italy,Rovelli,Giovanni,Medium
+176,"Australian Collectables, Ltd",Glen Waverly,3150,Australia,Connery,Sean,Medium
+177,West Coast Collectables Co.,Burbank,94019,USA,Thompson,Steve,Small
+178,Signal Gift Stores,Las Vegas,83030,USA,King,Sue,Small
+179,Signal Collectibles Ltd.,Brisbane,94217,USA,Taylor,Sue,Small
+180,Rovelli Gifts,Bergamo,24100,Italy,Rovelli,Giovanni,Small
+181,"Australian Collectables, Ltd",Glen Waverly,3150,Australia,Connery,Sean,Small
+182,Auto Assoc. & Cie.,Versailles,78000,France,Tonini,Daniel,Small
+183,"AV Stores, Co.",Manchester,EC2 5NT,UK,Ashworth,Victoria,Small
+184,Mini Caravy,Strasbourg,67000,France,Citeaux,Frederique,Small
+185,Handji Gifts& Co,Singapore,69045,Singapore,Victorino,Wendy,Small
+186,Toys4GrownUps.com,Pasadena,90003,USA,Young,Julie,Small
+187,Gift Ideas Corp.,Glendale,97561,USA,Lewis,Dan,Small
+188,Cruz & Sons Co.,Makati City,1227 MM,Philippines,Cruz,Arnold,Large
+189,"Bavarian Collectables Imports, Co.",Munich,80686,Germany,Donnermeyer,Michael,Medium
+190,"Classic Gift Ideas, Inc",Philadelphia,71270,USA,Cervantes,Francisca,Large
+191,Royale Belge,Charleroi,B-6000,Belgium,Cartrain,Pascale,Medium
+192,The Sharp Gifts Warehouse,San Jose,94217,USA,Frick,Sue,Medium
+193,Mini Auto Werke,Graz,8010,Austria,Mendel,Roland,Small
+194,Mini Caravy,Strasbourg,67000,France,Citeaux,Frederique,Medium
+195,Online Diecast Creations Co.,Nashua,62005,USA,Young,Valarie,Large
+196,"Norway Gifts By Mail, Co.",Oslo,N 0106,Norway,Klaeboe,Jan,Large
+197,Classic Legends Inc.,NYC,10022,USA,Hernandez,Maria,Large
+198,"Oulu Toy Supplies, Inc.",Oulu,90110,Finland,Koskitalo,Pirkko,Large
+199,"Iberia Gift Imports, Corp.",Sevilla,41101,Spain,Roel,Jose Pedro,Large
+200,Diecast Collectables,Boston,51003,USA,Franco,Valarie,Large
+201,Signal Collectibles Ltd.,Brisbane,94217,USA,Taylor,Sue,Large
+202,"La Corne D'abondance, Co.",Paris,75012,France,Bertrand,Marie,Large
+203,"Iberia Gift Imports, Corp.",Sevilla,41101,Spain,Roel,Jose Pedro,Small
+204,Technics Stores Inc.,Burlingame,94217,USA,Hirano,Juri,Small
+205,"Dragon Souveniers, Ltd.",Singapore,79903,Singapore,Natividad,Eric,Small
+206,"Stylish Desk Decors, Co.",London,WX3 6FW,UK,Brown,Ann,Small
+207,Diecast Collectables,Boston,51003,USA,Franco,Valarie,Small
+208,Marta's Replicas Co.,Cambridge,51247,USA,Hernandez,Marta,Small
+209,The Sharp Gifts Warehouse,San Jose,94217,USA,Frick,Sue,Small
+210,Gift Depot Inc.,Bridgewater,97562,USA,King,Julie,Small
+211,"Norway Gifts By Mail, Co.",Oslo,N 0106,Norway,Klaeboe,Jan,Small
+212,"Clover Collections, Co.",Dublin,2,Ireland,Cassidy,Dean,Small
+213,Mini Classics,White Plains,24067,USA,Frick,Steve,Small
+214,Gift Ideas Corp.,Glendale,97561,USA,Lewis,Dan,Medium
+215,"Australian Gift Network, Co",South Brisbane,4101,Australia,Calaghan,Tony,Small
+216,Osaka Souveniers Co.,Osaka,530-0003,Japan,Kentary,Mory,Small
+217,Tekni Collectables Inc.,Newark,94019,USA,Brown,William,Small
+218,Atelier graphique,Nantes,44000,France,Schmitt,Carine,Small
+219,Souveniers And Things Co.,Chatswood,2067,Australia,Huxley,Adrian,Large
+220,Cambridge Collectables Co.,Cambridge,51247,USA,Tseng,Kyung,Small
+221,Petit Auto,Bruxelles,B-1180,Belgium,Dewey,Catherine,Small
+222,Auto-Moto Classics Inc.,Brickhaven,58339,USA,Taylor,Leslie,Medium
+223,"Double Decker Gift Stores, Ltd",London,WA1 1DP,UK,Hardy,Thomas,Small
+224,"Men 'R' US Retailers, Ltd.",Los Angeles,,USA,Chandler,Michael,Small
+225,"Bavarian Collectables Imports, Co.",Munich,80686,Germany,Donnermeyer,Michael,Small
+226,giftsbymail.co.uk,Cowes,PO31 7PJ,UK,Bennett,Helen,Small
+227,Royale Belge,Charleroi,B-6000,Belgium,Cartrain,Pascale,Small
+228,Heintze Collectables,Aaarhus,8200,Denmark,Ibsen,Palle,Small
+229,Motor Mint Distributors Inc.,Philadelphia,71270,USA,Hernandez,Rosa,Large
+230,Alpha Cognac,Toulouse,31000,France,Roulet,Annette,Large
+231,Mini Classics,White Plains,24067,USA,Frick,Steve,Large
+232,Marta's Replicas Co.,Cambridge,51247,USA,Hernandez,Marta,Large
+233,"Toms Spezialitten, Ltd",Koln,50739,Germany,Pfalzheim,Henriette,Large
+234,"Toys of Finland, Co.",Helsinki,21240,Finland,Karttunen,Matti,Large
+235,Cruz & Sons Co.,Makati City,1227 MM,Philippines,Cruz,Arnold,Small
+236,Online Mini Collectables,Brickhaven,58339,USA,Barajas,Miguel,Small
+237,Auto-Moto Classics Inc.,Brickhaven,58339,USA,Taylor,Leslie,Small
+238,"Australian Collectables, Ltd",Glen Waverly,3150,Australia,Connery,Sean,Large
+239,Collectable Mini Designs Co.,San Diego,91217,USA,Thompson,Valarie,Large
+240,Microscale Inc.,NYC,10022,USA,Kuo,Kee,Small
+241,Enaco Distributors,Barcelona,8022,Spain,Saavedra,Eduardo,Small
+242,"Royal Canadian Collectables, Ltd.",Tsawassen,T2F 8M4,Canada,Lincoln,Elizabeth,Medium
+243,Land of Toys Inc.,NYC,10022,USA,Yu,Kwai,Large
+244,"AV Stores, Co.",Manchester,EC2 5NT,UK,Ashworth,Victoria,Large
+245,CAF Imports,Madrid,28023,Spain,Fernandez,Jesus,Small
+246,Quebec Home Shopping Network,Montreal,H1J 1C3,Canada,Fresnisre,Jean,Small
+247,Super Scale Inc.,New Haven,97823,USA,Murphy,Leslie,Small
+248,Microscale Inc.,NYC,10022,USA,Kuo,Kee,Large
+249,Collectable Mini Designs Co.,San Diego,91217,USA,Thompson,Valarie,Small
+250,Alpha Cognac,Toulouse,31000,France,Roulet,Annette,Small
+251,Boards & Toys Co.,Glendale,92561,USA,Young,Leslie,Small
+252,La Rochelle Gifts,Nantes,44000,France,Labrune,Janine,Large
+253,Baane Mini Imports,Stavern,4110,Norway,Bergulfsen,Jonas,Large
+254,FunGiftIdeas.com,New Bedford,50553,USA,Benitez,Violeta,Large
